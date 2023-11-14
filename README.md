@@ -71,5 +71,6 @@ updateClock();
 6. The `setTimeout` function is used to call the `updateClock` function after a delay of 1000 milliseconds, creating a continuous update every second.
 
 7. The `updateClock()` function is initially called to display the current time when the page loads.
-![image](https://github.com/divyanshrajpoot9/Digital-Clock/assets/114856467/67ee8cb8-aaac-42cb-9924-405854f8d85c)
+
+![Screenshot 2023-11-14 173838](https://github.com/divyanshrajpoot9/Digital-Clock/assets/114856467/144bc09e-57ca-4057-9375-9f9d8fefaecd)
 
