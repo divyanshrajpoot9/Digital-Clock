@@ -1,5 +1,5 @@
 # Digital-Clock
-### Hosted Link : 
+### Hosted Link : https://divyanshrajpoot9.github.io/Digital-Clock/
 ### Java Script DOM Manipulation:
 The Document Object Model (DOM) is a programming interface for web documents. It provides a structured representation of a web page, allowing you to access and manipulate its elements and content using JavaScript. Here are some basic DOM properties and methods.
 document: The document object represents the entire HTML document and serves as the entry point to the DOM. It provides properties and methods to access and modify the document's structure, content, and style.
@@ -71,3 +71,5 @@ updateClock();
 6. The `setTimeout` function is used to call the `updateClock` function after a delay of 1000 milliseconds, creating a continuous update every second.
 
 7. The `updateClock()` function is initially called to display the current time when the page loads.
+![image](https://github.com/divyanshrajpoot9/Digital-Clock/assets/114856467/67ee8cb8-aaac-42cb-9924-405854f8d85c)
+
